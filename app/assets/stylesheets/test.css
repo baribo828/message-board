@@ -1,0 +1,8 @@
+.jumbotron{
+   background-image: url("sea3.jpg");
+   background-size:cover;
+}
+
+body {
+background: #ffffff url(kabe.jpg) repeat-y right top fixed;
+}
